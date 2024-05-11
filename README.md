@@ -1,4 +1,8 @@
-
+# Changes Made
+1. Changed Lastname title to Surname
+2. Included  Latitude,Longitude,Country
+3. Returns details of first 5 random users
+4. Added refresh button to update the list of random users
 # Junior Developer Code Test
 
 Using the base code provided within this repository, make changes to satisfy the following requirements.
